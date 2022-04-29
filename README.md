@@ -82,7 +82,7 @@ CIRCUIT DIAGRAM
 **
 
 
-[My image](https://github.com/VishalGowthaman/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/main/Screenshot%20(5).png)
+![My image](https://github.com/VishalGowthaman/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/main/Screenshot%20(5).png)
 
 
 
